@@ -12,5 +12,6 @@ interested in game theory, superconductor physics and hope to break into the glo
 
   I'm always looking for inspiration so if you think you have a project I could help contribute to please let me know!
 
-Cheers!
+Cheers,
 
+Brandon
