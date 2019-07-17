@@ -1,6 +1,6 @@
 Hello! 
 
-  Welcome to my Git and my Physics/Math/Data Science Repository! It's a little barebones at the moment but hopefully it'll be up and running before long. Just as a little bit of background about me I graduated from Queen's University in 2019 with a Bachelor's in both Physics and Mathematics. I am particulary interested in game theory, superconductor physics and hope to break into the financial sector as a data scientist
+  Welcome to my Git and my Data Science/Physics/Math/Stats Repository! It's a little barebones at the moment but hopefully it'll be up and running before long. Just as a little bit of background about me I graduated from Queen's University in 2019 with a Bachelor's in both Physics and Mathematics. I am particulary interested in game theory, superconductor physics and hope to break into the financial sector as a data scientist
 
   The vast majority of what you'll find here is mathematical/computational physics stuff that I have done in the past in python. Please feel free to take a look and help yourself to anything that is of use to you. The vast majority of it is rather self explanatory with most of my past projects concerning derivative approximation, statistical analysis and data visualization by and large for physics and math based projects.
 
