@@ -4,4 +4,4 @@ The vast majority of projects you'll find here are mathematical and computationa
 
 Example: Legendre Polynomials Visualization 
 
-![alt text](https://github.com/BrandonToushan/Finance/blob/master/images/Cargojet.png)
+![alt text](https://github.com/BrandonToushan/Physics_Math_Stats/blob/master/images/legendre.png)
