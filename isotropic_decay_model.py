@@ -1,4 +1,4 @@
-####MODELING ISOTROPIC DECAY OF Mn-54
+###MODELING ISOTROPIC DECAY OF Mn-54
 
 #The dominant form of decay of Mn-54 is electron capture, followed by gamma partical emission
 #to the 834.855 keV excited state of Cr-54 with a branching ratio of  99.9977% of the time this occuring
