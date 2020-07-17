@@ -1,3 +1,5 @@
+###VISUALIZATION FOR 1st 10 FOURIER TRANSFORMS & FIRST 10 LEGENDRE POLYNOMIALS
+
 #Package Imports
 import numpy as np
 import matplotlib.pylab as plt
