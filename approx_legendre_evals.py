@@ -1,4 +1,5 @@
-###Determing Legendre Polynomials Mathematically and Constructing the Legendre Equation
+####CALCULATING LEGENDRE POLYNOMIALS ALGEBRAICALLY USING FINITE DIFF APPROXMIATION 
+####& ORTHONORMALIZING EIGENVECTORS VIA GRAM-SCHMIDT
 
 #Package Imports
 import numpy as np
