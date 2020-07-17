@@ -1,5 +1,4 @@
-####CALCULATING LEGENDRE POLYNOMIALS via MATRIX CALCULUS & FINITE DIFF APPROXMIATION 
-####& ORTHONORMALIZING EIGENVECTORS via GRAM-SCHMIDT 
+####APPROXMIATING LEGENDRE POLYNOMIAL EIGENVALS via MATRIX CALCULUS & GRAM-SCHMIDT
 
 #WIKIPEDIA: "Legendre polynomials (named after Adrien-Marie Legendre, who discovered them in 1782) are a system of complete and orthogonal polynomials, 
 #with a vast number of mathematical properties, and numerous applications. They can be defined in many ways, and the various definitions highlight 
