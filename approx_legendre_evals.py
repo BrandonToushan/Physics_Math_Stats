@@ -1,3 +1,5 @@
+###Determing Legendre Polynomials Mathematically and Constructing the Legendre Equation
+
 #Package Imports
 import numpy as np
 import math as m
